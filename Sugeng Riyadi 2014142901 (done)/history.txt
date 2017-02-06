@@ -1,0 +1,26 @@
+<HTML> 
+<HEAD> 
+<TITLE> History </TITLE> 
+</HEAD>  
+<BODY>
+<body style="background-image:url(ron.jpg)">  
+<font color="black"><h2><blink>Sejarah</blink></h2>
+</font> <hr size=3 color="red"> 
+<font size=4 color="blue"> 
+<blockquote> Awal mula (1897–1945)
+Awal mula Real Madrid dimulai saat sepak bola diperkenalkan ke Madrid oleh para akademisi dan mahasiswa dari Institución libre de enseñanza yang di dalamnya termasuk beberapa lulusan dari Universitas Oxford dan Universitas Cambridge. Mereka mendirikan Football Club Sky pada 1897 yang kemudian kerap bermain sepak bola secara rutin pada hari Minggu pagi di Moncloa. Klub ini kemudian terpecah menjadi dua pada tahun 1900, yaitu: New Foot-Ball de Madrid dan Club Español de Madrid.[7] Klub terakhir terpecah lagi pada tahun 1902 yang kemudian menghasilkan pembentukan Madrid Football Club pada tanggal 6 Maret 1902.[2]
+
+Kemudian Raja Spanyol Alfonso XIII
+Tiga tahun setelah berdirinya, pada tahun 1905, Madrid FC merebut gelar pertama setelah mengalahkan Athletic Bilbao pada final Copa del Rey. Klub ini menjadi salah satu anggota pendiri dari Federasi Sepak Bola Kerajaan Spanyol pada 4 Januari 1909 ketika presiden klub Adolfo Meléndez menandatangani perjanjian dasar pendirian Asosiasi Sepak Bola Kerajaan Spanyol. Dengan beberapa alasan, klub ini kemudian pindah ke Campo de O'Donnell pada tahun 1912.[8]
+
+Pada tahun 1920, nama klub diubah menjadi Real Madrid setelah Alfonso XIII dari Spanyol memperbolehkan klub menggunakan kata Real—yang berarti kerajaan—kepada klub ini.[9]
+Pada tahun 1929, Liga Spanyol didirikan. Real Madrid memimpin musim pertama liga sampai pertandingan terakhir, namun saat itu secara mengejutkan mereka kalah oleh Athletic Bilbao yang menyebabkan gelar yang sudah hampir pasti diraih, direbut oleh Barcelona.[10] Real Madrid akhirnya berhasil memenangkan gelar La Liga pertama mereka pada musim 1931—32. Real kemudian berhasil mempertahankan gelarnya pada tahun selanjutnya dan sukses menjadi klub Spanyol pertama yang menjuarai La Liga dua kali berturut-turut.[11]
+Pada 14 April 1931, kedatangan Republik Spanyol Kedua disebabkan klub kehilangan gelar Real dan kembali ke bernama Madrid Football Club. Sepak bola terus selama Perang Dunia Kedua, dan pada 13 Juni 1943, Madrid mengalahkan Barcelona 11-1 di leg kedua semi-final[12] dari Copa del Generalísimo, Copa del Rey yang telah berganti nama untuk menghormati Jenderal Franco. Ia telah mengemukakan bahwa pemain Barcelona diintimidasi oleh polisi,[13] termasuk oleh direktur keamanan negara yang "diduga mengatakan kepada tim bahwa beberapa dari mereka hanya bermain karena kedermawanan rezim dalam memungkinkan mereka untuk tetap di negara ini."[14] Ketua Barcelona, Enric Piñeyro, diserang oleh fans Madrid.[15]
+
+
+</blockquote> <br>
+
+
+ 
+</BODY> 
+</HTML>
